@@ -15,11 +15,11 @@
     <a href="https://documenter.getpostman.com/view/10628880/2sAYQiAn6f"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
-    &middot;
-    <a href="">Report Bug</a>
-    &middot;
-    <a href="">Request Feature</a>
+      <a href="https://github.com/BrunoVollin/MedResult">View Demo</a>
+      &middot;
+      <a href="https://github.com/BrunoVollin/MedResult/issues">Report Bug</a>
+      &middot;
+      <a href="https://github.com/BrunoVollin/MedResult/issues">Request Feature</a>
   </p>
 </div>
 
