@@ -1,5 +1,3 @@
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -23,59 +21,59 @@
   </p>
 </div>
 
-
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
-
-
-
 
 This project aims to transform the way medical exams are delivered to patients, offering a simple, fast, and efficient solution for sending results directly in PDF format, both for mobile devices and the web. With the digitization of exams, we are creating a way to facilitate communication between the laboratory and the patient, as well as improving the experience for everyone involved in the process.
 
 #### Convenience for the Patient
+
 With the ability to access the results directly on their mobile phone or computer, the patient no longer has to wait for the physical receipt of the exam or worry about going to the laboratory for long pick-up times. Digital access provides convenience and speed, allowing the patient to check the results whenever needed, without wasting time or facing logistical complications. Additionally, by receiving the exam directly on their device, they can easily share the results with doctors, family members, or anyone else who needs them, without having to travel.
 
 #### Benefits for Doctors
+
 For doctors, this digital solution offers a practical and efficient way to receive and review exam results. They can easily access the PDFs, make notes, and share the information with patients immediately. This also reduces the risk of transcription errors or document loss, while decreasing the time spent on manual and physical processes. With exams directly accessible and digitally organized, doctors can focus on what really matters: patient care.
 
 
+#### Integration with Telegram  
 
+Our Telegram bot allows patients to receive their exam results quickly and securely directly through the app. As soon as the exams are processed, the bot automatically sends a notification with a link to access the document, eliminating the need to visit the laboratory. Additionally, patients can review past exams, receive reminders, and share results with doctors or family members with just a few taps. This integration ensures convenience, reduces bureaucracy, and enhances the patient experience in managing their health.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+  <a href="">
+    <img src="./images/telegram (2).png" alt="Telegram Integration" width="32%">
+    <img src="./images/telegram (3).png" alt="Telegram Integration" width="32%">
+    <img src="./images/telegram (1).png" alt="Telegram Integration" width="32%">
+  </a>
+</div>
 
 
 
 ### Built With
 
-
-* [![Nesxt][Next.js]][Next-url]
-* [![Typescript][Typescript]][Typescript-url]
-* [![TypeORM][TypeORM]][TypeORM-url]
-* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- [![Nesxt][Next.js]][Next-url]
+- [![Typescript][Typescript]][Typescript-url]
+- [![TypeORM][TypeORM]][TypeORM-url]
+- [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
-
-
-
 
 _Follow the steps below to set up and run the app. This template does not rely on any external dependencies or services._
 
 1. **Create a `.env` file**  
    Copy the contents of `example.env` to a new file named `.env`:
+
    ```sh
    cp example.env .env
    ```
 
 2. **Install dependencies**  
    Run the following command to install the necessary packages using Yarn:
+
    ```sh
    yarn install
    ```
@@ -86,10 +84,6 @@ _Follow the steps below to set up and run the app. This template does not rely o
    yarn start:dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 ## License
@@ -97,12 +91,10 @@ _Follow the steps below to set up and run the app. This template does not rely o
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -131,15 +123,10 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
+[JQuery-url]: https://jquery.com
 [TypeORM]: https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white
 [TypeORM-url]: https://typeorm.io/
-
-
-
-[TypeScript]:https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/
-
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
