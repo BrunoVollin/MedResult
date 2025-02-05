@@ -35,6 +35,11 @@ With the ability to access the results directly on their mobile phone or compute
 
 For doctors, this digital solution offers a practical and efficient way to receive and review exam results. They can easily access the PDFs, make notes, and share the information with patients immediately. This also reduces the risk of transcription errors or document loss, while decreasing the time spent on manual and physical processes. With exams directly accessible and digitally organized, doctors can focus on what really matters: patient care.
 
+#### Diagram
+
+<div align="center">
+    <img src="./images/diagram.png" alt="Telegram Diagram">
+</div>
 
 #### Integration with Telegram  
 
