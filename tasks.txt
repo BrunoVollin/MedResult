@@ -1,9 +1,0 @@
-TODO
-- create a simple front-end
-- finish readme with the links 
-- use vercel to deploy 
-- look for improves 
-
-DOING
-
-DONE
