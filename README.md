@@ -12,6 +12,8 @@
     <br />
     <a href="https://documenter.getpostman.com/view/10628880/2sAYQiAn6f"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://t.me/JamesMedicalBot"><strong>Chat with the bot »</strong></a>
+    <br />
     <br />
       <a href="https://github.com/BrunoVollin/MedResult">View Demo</a>
       &middot;
